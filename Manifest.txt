@@ -1,0 +1,2 @@
+Main-class: database
+Class-Path: ojdbc6.jar
